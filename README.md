@@ -1,5 +1,5 @@
 ### Hi there 👋,
-you're welcome! Glad to have you here.
+You're welcome! Glad to have you here.
 <br>Let me introduce myself...
         
 - ❓ My name is Gabriel ......
