@@ -9,11 +9,15 @@
 <br>
 
  ```python
-def cyber():
+def main():
     while(True):
         lookForVulnerabilities()
         if found == True:
           report()
+        enjoyLife()
+
+if __name__ == "__main__":
+    main()
 ```
 
 <br>
