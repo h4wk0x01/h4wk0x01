@@ -8,6 +8,16 @@
 
 <br>
 
+ ```python
+def learn(subject):
+    if isNew(subject):
+      studdy()
+    else:
+      revise()
+```
+
+<br>
+
 <img src="https://media.tenor.com/5fXOP8eurtkAAAAM/mr-robot.gif" alt="Alt Text" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.tenor.com/ofYCY_OJQ1kAAAAM/hacker-hack.gif" alt="Alt Text" />
 
 <br><br>
