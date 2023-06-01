@@ -9,11 +9,11 @@
 <br>
 
  ```python
-def learn(subject):
-    if isNew(subject):
-      studdy()
-    else:
-      revise()
+def cyber():
+    while(True):
+        lookForVulnerabilities()
+        if found == True:
+          report()
 ```
 
 <br>
