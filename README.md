@@ -18,7 +18,7 @@ def cyber():
 
 <br>
 
-<img src="https://media.tenor.com/5fXOP8eurtkAAAAM/mr-robot.gif" alt="Alt Text" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.tenor.com/ofYCY_OJQ1kAAAAM/hacker-hack.gif" alt="Alt Text" />
+<img src="https://media.tenor.com/5fXOP8eurtkAAAAM/mr-robot.gif" alt="Alt Text" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.tenor.com/ofYCY_OJQ1kAAAAM/hacker-hack.gif" alt="Alt Text" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif" alt="Alt Text" />
 
 <br><br>
 <h1>Technologies</h1>
