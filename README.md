@@ -1,7 +1,7 @@
 ### Hi there 👋,
-        you're welcome!
+you're welcome!
         
-- ❓ My name is Gabriel Gomides ...
+- ❓ My name is Gabriel ...
 - 👨‍🎓 I’m graduating at Computer science.
 - 🏴‍☠️ This profile is focused on cybersecurity and Artificial Inteligence.
 
