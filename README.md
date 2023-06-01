@@ -3,8 +3,8 @@
 <br>Let me introduce myself...
         
 - ❓ My name is <b>Gabriel</b> ......
-- 👨‍🎓 I’m graduating at <b>Computer science</b>.
-- 🏴‍☠️ This profile is focused on <b>cybersecurity</b> and <b>Artificial Inteligence</b>.
+- 👨‍🎓 I’m graduating in <b>Computer science</b>.
+- 🏴‍☠️ This profile is focused on <b>cybersecurity</b> and <b>Artificial Intelligence</b>.
 
 <br>
 
