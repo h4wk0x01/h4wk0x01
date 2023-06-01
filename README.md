@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋,
+        you're welcome!
+        
+- ❓ My name is Gabriel Gomides ...
+- 👨‍🎓 I’m graduating at Computer science.
+- 🏴‍☠️ This profile is focused on cybersecurity and Artificial Inteligence.
+
 
 <!--
 **h4wk0x01/h4wk0x01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
