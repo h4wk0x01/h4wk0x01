@@ -1,7 +1,8 @@
 ### Hi there 👋,
-you're welcome!
+you're welcome! Glad to have you here.
+<br>Let me introduce myself...
         
-- ❓ My name is Gabriel ...
+- ❓ My name is Gabriel ......
 - 👨‍🎓 I’m graduating at Computer science.
 - 🏴‍☠️ This profile is focused on cybersecurity and Artificial Inteligence.
 
