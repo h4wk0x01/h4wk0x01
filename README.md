@@ -1,10 +1,14 @@
-### Hi there 👋,
-You're welcome! Glad to have you here.
+# Hi there 👋,
+<b>You're welcome</b>! Glad to have you here.
 <br>Let me introduce myself...
         
-- ❓ My name is Gabriel ......
-- 👨‍🎓 I’m graduating at Computer science.
-- 🏴‍☠️ This profile is focused on cybersecurity and Artificial Inteligence.
+- ❓ My name is <b>Gabriel</b> ......
+- 👨‍🎓 I’m graduating at <b>Computer science</b>.
+- 🏴‍☠️ This profile is focused on <b>cybersecurity</b> and <b>Artificial Inteligence</b>.
+
+<br>
+
+<img src="https://media.tenor.com/5fXOP8eurtkAAAAM/mr-robot.gif" alt="Alt Text" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.tenor.com/ofYCY_OJQ1kAAAAM/hacker-hack.gif" alt="Alt Text" />
 
 
 <!--
