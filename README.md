@@ -3,7 +3,7 @@
 <br>Let me introduce myself...
         
 - ❓ My name is <b>Gabriel</b> ......
-- 👨‍🎓 I’m graduating in <b>Computer Science</b>.
+- 👨‍🎓 I’m graduated in <b>Computer Science</b> (PUC-MG).
 - 🏴‍☠️ This profile is focused on <b>cybersecurity</b> and <b>Artificial Intelligence</b>.
 
 <br>
