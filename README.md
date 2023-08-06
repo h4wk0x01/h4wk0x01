@@ -4,7 +4,7 @@
         
 - ❓ My name is <b>Gabriel</b> ......
 - 👨‍🎓 I’m graduated in <b>Computer Science</b> (PUC-MG).
-- 🏴‍☠️ This profile is focused on <b>cybersecurity</b> and <b>Artificial Intelligence</b>.
+- 🏴‍☠️ This profile is focused on <b>cybersecurity</b>.
 
 <br>
 
