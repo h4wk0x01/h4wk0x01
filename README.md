@@ -3,7 +3,7 @@
 <br>Let me introduce myself...
         
 - ❓ My name is <b>Gabriel</b> ......
-- 👨‍🎓 I’m graduated in <b>Computer Science</b> (PUC-MG).
+- 👨‍🎓 I’m graduated in <b>Computer Science</b> (PUC-MG, Brazil).
 - 🏴‍☠️ This profile is focused on <b>cybersecurity</b>.
 
 <br>
@@ -26,7 +26,7 @@ if __name__ == "__main__":
  </div>
  
 <br><br>
-<h1>Technologies</h1>
+<h1></h1>
 <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
