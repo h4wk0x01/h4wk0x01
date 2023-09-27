@@ -4,7 +4,7 @@
         
 - ❓ My name is <b>Gabriel</b> ......
 - 👨‍🎓 I’m graduated in <b>Computer Science</b> (PUC-MG, Brazil).
-- 📧 CompTIA Security+. Google Cybersecurity Certificate.
+- 📧 CompTIA Security+, Google Cybersecurity Certificate.
 - 🏴‍☠️ This profile is focused on <b>cybersecurity</b>.
 
 <br>
