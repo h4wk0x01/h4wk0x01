@@ -7,10 +7,10 @@
 - 📧 CompTIA Security+, Google Cybersecurity Certificate.
 - 🏴‍☠️ This profile is focused on <b>cybersecurity</b>.
 
-## 🔬 Security Research (Anti-Cheat)
-- 🎮 [Borderlands 3 — External Cheat & Memory Research](https://github.com/Tox1cP4nd4/b3_project]([https://github.com/Tox1cP4nd4/Borderlands3_CheatMenu](https://github.com/Tox1cP4nd4/Borderlands3_CheatMenu)) 
-- 🗂️ [Cheat Engine Tables — Game Memory Offsets]([https://github.com/Tox1cP4nd4/CE_Cheat_Tables](https://github.com/Tox1cP4nd4/CE_Cheat_Tables))
-> Game security research focused on understanding attack techniques to build better defenses.
+ -🔬 Security Research (Anti-Cheat):
+  - 🎮 [Borderlands 3 — External Cheat & Memory Research](https://github.com/Tox1cP4nd4/b3_project]([https://github.com/Tox1cP4nd4/Borderlands3_CheatMenu](https://github.com/Tox1cP4nd4/Borderlands3_CheatMenu)) 
+  - 🗂️ [Cheat Engine Tables — Game Memory Offsets]([https://github.com/Tox1cP4nd4/CE_Cheat_Tables](https://github.com/Tox1cP4nd4/CE_Cheat_Tables))
+ > Game security research focused on understanding attack techniques to build better defenses.
 
 <br>
 
